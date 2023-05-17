@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "690519747487",
+    "project_id": "fruit-inventory-portfolio-app",
+    "storage_bucket": "fruit-inventory-portfolio-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690519747487:android:733bcb41bc4fdef335abaa",
+        "android_client_info": {
+          "package_name": "com.kenneth_bustamante.fruit_inventory_portfolio_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690519747487-eaf5pm2demr3uqgs8la368n3ji2ht15g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbEhgxD4s2AmMn6eZib50Srbu1-Tsu4mA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690519747487-eaf5pm2demr3uqgs8la368n3ji2ht15g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

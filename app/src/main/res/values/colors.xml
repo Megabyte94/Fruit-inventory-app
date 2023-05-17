@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--Colors resource file-->
+
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="lightGrayColor">#858383</color>
+    <color name="darkGrayColor">#333333</color>
+    <color name="gray1">#4C4C4C</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purpleColor1">#574C6A</color>
+    <color name="blueColor1">#0D3B66</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="darkHintColor">#393838</color>
+</resources>
